@@ -1,0 +1,20 @@
+Package: uaeDB
+Type: Package
+Title: uaeDB: UAE Database
+Version: 1.0.0
+Author: Kosay Hatem
+Maintainer: The package maintainer Kosay Hatem <kosay-h@hotmail.com>
+Description: This package contains database freely for UAE. The data has been collected from open
+              source website https://bayanat.ae/.
+License: MIT License.
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports:
+    leaflet,
+    ggmap,
+    dplyr
+
+
+

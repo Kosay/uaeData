@@ -1,0 +1,201 @@
+Year,Crop_En,Indecator_En,Value
+2006,Alfalfa,Area (Dunum),22327.000
+2006,Rhodegrass,Area (Dunum),220089.000
+2006,Sorghum,Area (Dunum),7317.000
+2006,Wheat,Area (Dunum),21.000
+2006,Barley,Area (Dunum),177.000
+2006,Tobacco,Area (Dunum),241.000
+2006,Corn,Area (Dunum),470.000
+2006,Others,Area (Dunum),3322.000
+2006,Alfalfa,Quantity of Production (Ton),167440.000
+2006,Rhodegrass,Quantity of Production (Ton),1463269.000
+2006,Sorghum,Quantity of Production (Ton),45453.000
+2006,Wheat,Quantity of Production (Ton),12.920
+2006,Barley,Quantity of Production (Ton),141.400
+2006,Tobacco,Quantity of Production (Ton),361.500
+2006,Corn,Quantity of Production (Ton),1261.000
+2006,Others,Quantity of Production (Ton),24435.000
+2007,Alfalfa,Area (Dunum),25012.000
+2007,Rhodegrass,Area (Dunum),191746.000
+2007,Sorghum,Area (Dunum),7289.000
+2007,Wheat,Area (Dunum),28.000
+2007,Barley,Area (Dunum),122.000
+2007,Tobacco,Area (Dunum),220.000
+2007,Corn,Area (Dunum),646.000
+2007,Others,Area (Dunum),2414.000
+2007,Alfalfa,Quantity of Production (Ton),222415.000
+2007,Rhodegrass,Quantity of Production (Ton),1703609.000
+2007,Sorghum,Quantity of Production (Ton),43019.000
+2007,Wheat,Quantity of Production (Ton),17.230
+2007,Barley,Quantity of Production (Ton),97.440
+2007,Tobacco,Quantity of Production (Ton),330.000
+2007,Corn,Quantity of Production (Ton),1733.000
+2007,Others,Quantity of Production (Ton),15397.000
+2008,Alfalfa,Area (Dunum),26675.000
+2008,Rhodegrass,Area (Dunum),254897.000
+2008,Sorghum,Area (Dunum),8581.000
+2008,Wheat,Area (Dunum),2727.000
+2008,Barley,Area (Dunum),21.000
+2008,Tobacco,Area (Dunum),132.000
+2008,Corn,Area (Dunum),225.000
+2008,Others,Area (Dunum),836.000
+2008,Alfalfa,Quantity of Production (Ton),231385.000
+2008,Rhodegrass,Quantity of Production (Ton),1365797.000
+2008,Sorghum,Quantity of Production (Ton),50319.000
+2008,Wheat,Quantity of Production (Ton),12307.000
+2008,Barley,Quantity of Production (Ton),13.000
+2008,Tobacco,Quantity of Production (Ton),105.000
+2008,Corn,Quantity of Production (Ton),338.000
+2008,Others,Quantity of Production (Ton),2243.000
+2009,Alfalfa,Area (Dunum),17250.000
+2009,Rhodegrass,Area (Dunum),247799.000
+2009,Sorghum,Area (Dunum),12402.000
+2009,Wheat,Area (Dunum),3071.000
+2009,Barley,Area (Dunum),39.000
+2009,Tobacco,Area (Dunum),154.000
+2009,Corn,Area (Dunum),274.000
+2009,Others,Area (Dunum),1222.000
+2009,Alfalfa,Quantity of Production (Ton),148205.000
+2009,Rhodegrass,Quantity of Production (Ton),1323933.000
+2009,Sorghum,Quantity of Production (Ton),89300.000
+2009,Wheat,Quantity of Production (Ton),8409.000
+2009,Barley,Quantity of Production (Ton),24.000
+2009,Tobacco,Quantity of Production (Ton),123.000
+2009,Corn,Quantity of Production (Ton),411.000
+2009,Others,Quantity of Production (Ton),3278.000
+2010,Alfalfa,Area (Dunum),28240.000
+2010,Rhodegrass,Area (Dunum),220626.000
+2010,Sorghum,Area (Dunum),14570.000
+2010,Wheat,Area (Dunum),49.000
+2010,Barley,Area (Dunum),137.000
+2010,Tobacco,Area (Dunum),309.000
+2010,Corn,Area (Dunum),2816.000
+2010,Others,Area (Dunum),28714.000
+2010,Alfalfa,Quantity of Production (Ton),193239.000
+2010,Rhodegrass,Quantity of Production (Ton),1207734.000
+2010,Sorghum,Quantity of Production (Ton),125029.000
+2010,Wheat,Quantity of Production (Ton),29.000
+2010,Barley,Quantity of Production (Ton),110.000
+2010,Tobacco,Quantity of Production (Ton),464.000
+2010,Corn,Quantity of Production (Ton),5226.000
+2010,Others,Quantity of Production (Ton),132172.000
+2011,Alfalfa,Area (Dunum),19172.017
+2011,Rhodegrass,Area (Dunum),184853.413
+2011,Millet,Area (Dunum),11226.470
+2011,Maize,Area (Dunum),3587.000
+2011,Others,Area (Dunum),6786.631
+2011,Alfalfa,Quantity of Production (Ton),90158.000
+2011,Rhodegrass,Quantity of Production (Ton),379070.000
+2011,Millet,Quantity of Production (Ton),89502.610
+2011,Maize,Quantity of Production (Ton),3557.000
+2011,Others,Quantity of Production (Ton),182271.448
+2011,Alfalfa,Value of Production (000 AED),135237.000
+2011,Rhodegrass,Value of Production (000 AED),602446.000
+2011,Millet,Value of Production (000 AED),146935.000
+2011,Maize,Value of Production (000 AED),9731.000
+2011,Others,Value of Production (000 AED),227049.000
+2012,Alfalfa,Area (Dunum),6026.106
+2012,Alfalfa,Quantity of Production (Ton),44400.355
+2012,Alfalfa,Value of Production (000 AED),119949.494
+2012,Rhodegrass,Area (Dunum),29561.468
+2012,Rhodegrass,Quantity of Production (Ton),106354.081
+2012,Rhodegrass,Value of Production (000 AED),203245.162
+2012,Millet,Area (Dunum),6887.057
+2012,Millet,Quantity of Production (Ton),23759.500
+2012,Millet,Value of Production (000 AED),70283.918
+2012,Maize,Area (Dunum),810.056
+2012,Maize,Quantity of Production (Ton),3429.984
+2012,Maize,Value of Production (000 AED),10972.652
+2012,Others,Area (Dunum),2796.858
+2012,Others,Quantity of Production (Ton),9171.935
+2012,Others,Value of Production (000 AED),12172.946
+2013,Alfalfa,Area (Dunum),6248.000
+2013,Alfalfa,Quantity of Production (Ton),46561.000
+2013,Alfalfa,Value of Production (000 AED),125715.000
+2013,Rhodegrass,Area (Dunum),15130.000
+2013,Rhodegrass,Quantity of Production (Ton),81102.000
+2013,Rhodegrass,Value of Production (000 AED),178424.000
+2013,Millet,Area (Dunum),22322.000
+2013,Millet,Quantity of Production (Ton),56422.000
+2013,Millet,Value of Production (000 AED),123524.000
+2013,Maize,Area (Dunum),204.600
+2013,Maize,Quantity of Production (Ton),772.200
+2013,Maize,Value of Production (000 AED),2504.000
+2013,Others,Area (Dunum),2384.600
+2013,Others,Quantity of Production (Ton),8192.500
+2013,Others,Value of Production (000 AED),12495.000
+2014,Alfalfa,Area (Dunum),23084.350
+2014,Alfalfa,Quantity of Production (Ton),139885.505
+2014,Alfalfa,Value of Production (000 AED),236453.607
+2014,Rhodegrass,Area (Dunum),55496.408
+2014,Rhodegrass,Quantity of Production (Ton),317366.084
+2014,Rhodegrass,Value of Production (000 AED),502671.127
+2014,Millet,Area (Dunum),6562.377
+2014,Millet,Quantity of Production (Ton),52499.019
+2014,Millet,Value of Production (000 AED),83998.431
+2014,Maize,Area (Dunum),1811.790
+2014,Maize,Quantity of Production (Ton),2580.300
+2014,Maize,Value of Production (000 AED),6716.900
+2014,Others,Area (Dunum),7097.949
+2014,Others,Quantity of Production (Ton),26596.371
+2014,Others,Value of Production (000 AED),63418.803
+2015,Alfalfa,Area (Dunum),19239.848
+2015,Alfalfa,Quantity of Production (Ton),111004.476
+2015,Alfalfa,Value of Production (000 AED),179866.562
+2015,Rhodegrass,Area (Dunum),50633.473
+2015,Rhodegrass,Quantity of Production (Ton),273069.734
+2015,Rhodegrass,Value of Production (000 AED),402740.101
+2015,Millet,Area (Dunum),6154.105
+2015,Millet,Quantity of Production (Ton),49232.843
+2015,Millet,Value of Production (000 AED),78772.549
+2015,Maize,Area (Dunum),1047.489
+2015,Maize,Quantity of Production (Ton),3695.494
+2015,Maize,Value of Production (000 AED),12707.894
+2015,Others,Area (Dunum),3141.687
+2015,Others,Quantity of Production (Ton),10105.889
+2015,Others,Value of Production (000 AED),15567.051
+2016,Alfalfa,Area (Dunum),21679.490
+2016,Rhodegrass,Area (Dunum),54082.968
+2016,Millet,Area (Dunum),5870.600
+2016,Maize,Area (Dunum),1793.006
+2016,Others,Area (Dunum),9013.145
+2016,Alfalfa,Quantity of Production (Ton),124289.899
+2016,Rhodegrass,Quantity of Production (Ton),299173.681
+2016,Millet,Quantity of Production (Ton),46965.080
+2016,Maize,Quantity of Production (Ton),5987.693
+2016,Others,Quantity of Production (Ton),30260.765
+2016,Alfalfa,Value of Production (000 AED),211717.838
+2016,Rhodegrass,Value of Production (000 AED),475840.521
+2016,Millet,Value of Production (000 AED),75144.100
+2016,Maize,Value of Production (000 AED),14381.549
+2016,Others,Value of Production (000 AED),68684.020
+2017,Alfalfa,Area (Dunum),23901.761
+2017,Rhodegrass,Area (Dunum),62495.630
+2017,Millet,Area (Dunum),9552.451
+2017,Maize,Area (Dunum),5565.590
+2017,Others,Area (Dunum),10439.854
+2017,Alfalfa,Quantity of Production (Ton),142909.608
+2017,Rhodegrass,Quantity of Production (Ton),373795.704
+2017,Millet,Quantity of Production (Ton),76419.606
+2017,Maize,Quantity of Production (Ton),17142.747
+2017,Others,Quantity of Production (Ton),35014.455
+2017,Alfalfa,Value of Production (000 AED),242020.172
+2017,Rhodegrass,Value of Production (000 AED),588838.283
+2017,Millet,Value of Production (000 AED),122271.369
+2017,Maize,Value of Production (000 AED),36860.547
+2017,Others,Value of Production (000 AED),76128.455
+2018,Alfalfa,Area (Dunum),12997.114
+2018,Rhodegrass,Area (Dunum),48786.043
+2018,Millet,Area (Dunum),8129.725
+2018,Maize,Area (Dunum),3917.634
+2018,Others,Area (Dunum),3760.000
+2018,Alfalfa,Quantity of Production (Ton),82654.138
+2018,Rhodegrass,Quantity of Production (Ton),293675.434
+2018,Millet,Quantity of Production (Ton),65037.797
+2018,Maize,Quantity of Production (Ton),8169.545
+2018,Others,Quantity of Production (Ton),18366.583
+2018,Alfalfa,Value of Production (000 AED),132826.820
+2018,Rhodegrass,Value of Production (000 AED),413159.651
+2018,Millet,Value of Production (000 AED),104060.476
+2018,Maize,Value of Production (000 AED),15614.345
+2018,Others,Value of Production (000 AED),32202.758
