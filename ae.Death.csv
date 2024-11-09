@@ -1,0 +1,214 @@
+﻿Year,Emirate,Nationality_Group,Gender,Total
+2011,Ajman,Citizen,Female,32
+2011,Ajman,Citizen,Male,59
+2011,Ajman,Expat,Female,74
+2011,Ajman,Expat,Male,237
+2011,Dubai,Citizen,Female,212
+2011,Dubai,Citizen,Male,320
+2011,Dubai,Expat,Female,339
+2011,Dubai,Expat,Male,1082
+2011,Fujairah,Citizen,Female,52
+2011,Fujairah,Citizen,Male,90
+2011,Fujairah,Expat,Female,23
+2011,Fujairah,Expat,Male,94
+2011,RAK,Citizen,Female,99
+2011,RAK,Citizen,Male,123
+2011,RAK,Expat,Female,46
+2011,RAK,Expat,Male,187
+2011,Sharjah,Citizen,Female,155
+2011,Sharjah,Citizen,Male,209
+2011,Sharjah,Expat,Female,220
+2011,Sharjah,Expat,Male,720
+2011,UAQ,Citizen,Female,22
+2011,UAQ,Citizen,Male,25
+2011,UAQ,Expat,Female,7
+2011,UAQ,Expat,Male,37
+2012,Ajman,Citizen,Female,41
+2012,Ajman,Citizen,Male,46
+2012,Ajman,Expat,Female,99
+2012,Ajman,Expat,Male,256
+2012,Dubai,Citizen,Female,221
+2012,Dubai,Citizen,Male,317
+2012,Dubai,Expat,Female,365
+2012,Dubai,Expat,Male,1231
+2012,Fujairah,Citizen,Female,64
+2012,Fujairah,Citizen,Male,75
+2012,Fujairah,Expat,Female,37
+2012,Fujairah,Expat,Male,115
+2012,RAK,Citizen,Female,93
+2012,RAK,Citizen,Male,138
+2012,RAK,Expat,Female,55
+2012,RAK,Expat,Male,182
+2012,Sharjah,Citizen,Female,128
+2012,Sharjah,Citizen,Male,202
+2012,Sharjah,Expat,Female,255
+2012,Sharjah,Expat,Male,760
+2012,UAQ,Citizen,Female,11
+2012,UAQ,Citizen,Male,36
+2012,UAQ,Expat,Female,15
+2012,UAQ,Expat,Male,37
+2013,Abu Dhabi,Citizen,Female,364
+2013,Abu Dhabi,Citizen,Male,568
+2013,Abu Dhabi,Expat,Female,537
+2013,Abu Dhabi,Expat,Male,1546
+2013,Ajman,Citizen,Female,31
+2013,Ajman,Citizen,Male,43
+2013,Ajman,Expat,Female,88
+2013,Ajman,Expat,Male,262
+2013,Dubai,Citizen,Female,241
+2013,Dubai,Citizen,Male,339
+2013,Dubai,Expat,Female,443
+2013,Dubai,Expat,Male,1282
+2013,Fujairah,Citizen,Female,55
+2013,Fujairah,Citizen,Male,91
+2013,Fujairah,Expat,Female,23
+2013,Fujairah,Expat,Male,110
+2013,RAK,Citizen,Female,100
+2013,RAK,Citizen,Male,137
+2013,RAK,Expat,Female,59
+2013,RAK,Expat,Male,186
+2013,Sharjah,Citizen,Female,146
+2013,Sharjah,Citizen,Male,196
+2013,Sharjah,Expat,Female,270
+2013,Sharjah,Expat,Male,796
+2013,UAQ,Citizen,Female,11
+2013,UAQ,Citizen,Male,18
+2013,UAQ,Expat,Female,20
+2013,UAQ,Expat,Male,53
+2014,Ajman,Citizen,Female,35
+2014,Ajman,Citizen,Male,54
+2014,Ajman,Expat,Female,95
+2014,Ajman,Expat,Male,263
+2014,Dubai,Citizen,Female,229
+2014,Dubai,Citizen,Male,289
+2014,Dubai,Expat,Female,420
+2014,Dubai,Expat,Male,1381
+2014,Fujairah,Citizen,Female,60
+2014,Fujairah,Citizen,Male,100
+2014,Fujairah,Expat,Female,19
+2014,Fujairah,Expat,Male,119
+2014,RAK,Citizen,Female,99
+2014,RAK,Citizen,Male,111
+2014,RAK,Expat,Female,59
+2014,RAK,Expat,Male,228
+2014,Sharjah,Citizen,Female,134
+2014,Sharjah,Citizen,Male,236
+2014,Sharjah,Expat,Female,243
+2014,Sharjah,Expat,Male,798
+2014,UAQ,Citizen,Female,25
+2014,UAQ,Citizen,Male,34
+2014,UAQ,Expat,Female,20
+2014,UAQ,Expat,Male,61
+2015,Abu Dhabi,Citizen,Female,415
+2015,Abu Dhabi,Citizen,Male,701
+2015,Abu Dhabi,Expat,Female,555
+2015,Abu Dhabi,Expat,Male,1492
+2015,Ajman,Citizen,Female,19
+2015,Ajman,Citizen,Male,50
+2015,Ajman,Expat,Female,95
+2015,Ajman,Expat,Male,295
+2015,Dubai,Citizen,Female,247
+2015,Dubai,Citizen,Male,344
+2015,Dubai,Expat,Female,476
+2015,Dubai,Expat,Male,1487
+2015,Fujairah,Citizen,Female,60
+2015,Fujairah,Citizen,Male,98
+2015,Fujairah,Expat,Female,25
+2015,Fujairah,Expat,Male,96
+2015,RAK,Citizen,Female,107
+2015,RAK,Citizen,Male,167
+2015,RAK,Expat,Female,67
+2015,RAK,Expat,Male,212
+2015,Sharjah,Citizen,Female,165
+2015,Sharjah,Citizen,Male,224
+2015,Sharjah,Expat,Female,285
+2015,Sharjah,Expat,Male,950
+2015,UAQ,Citizen,Female,25
+2015,UAQ,Citizen,Male,26
+2015,UAQ,Expat,Female,14
+2015,UAQ,Expat,Male,58
+2016,Abu Dhabi,Citizen,Female,437
+2016,Abu Dhabi,Citizen,Male,683
+2016,Abu Dhabi,Expat,Female,570
+2016,Abu Dhabi,Expat,Male,1593
+2016,Ajman,Citizen,Female,25
+2016,Ajman,Citizen,Male,37
+2016,Ajman,Expat,Female,105
+2016,Ajman,Expat,Male,337
+2016,Dubai,Citizen,Female,259
+2016,Dubai,Citizen,Male,356
+2016,Dubai,Expat,Female,477
+2016,Dubai,Expat,Male,1620
+2016,Fujairah,Citizen,Female,53
+2016,Fujairah,Citizen,Male,89
+2016,Fujairah,Expat,Female,25
+2016,Fujairah,Expat,Male,96
+2016,RAK,Citizen,Female,97
+2016,RAK,Citizen,Male,157
+2016,RAK,Expat,Female,83
+2016,RAK,Expat,Male,207
+2016,Sharjah,Citizen,Female,151
+2016,Sharjah,Citizen,Male,204
+2016,Sharjah,Expat,Female,293
+2016,Sharjah,Expat,Male,913
+2016,UAQ,Citizen,Female,29
+2016,UAQ,Citizen,Male,29
+2016,UAQ,Expat,Female,16
+2016,UAQ,Expat,Male,47
+2017,Abu Dhabi,Citizen,Female,445
+2017,Abu Dhabi,Citizen,Male,713
+2017,Abu Dhabi,Citizen,Unknown,4
+2017,Abu Dhabi,Expat,Female,578
+2017,Abu Dhabi,Expat,Male,1522
+2017,Ajman,Citizen,Female,19
+2017,Ajman,Citizen,Male,32
+2017,Ajman,Expat,Female,101
+2017,Ajman,Expat,Male,313
+2017,Dubai,Citizen,Female,239
+2017,Dubai,Citizen,Male,304
+2017,Dubai,Expat,Female,498
+2017,Dubai,Expat,Male,1561
+2017,Fujairah,Citizen,Female,64
+2017,Fujairah,Citizen,Male,61
+2017,Fujairah,Expat,Female,40
+2017,Fujairah,Expat,Male,96
+2017,RAK,Citizen,Female,119
+2017,RAK,Citizen,Male,181
+2017,RAK,Expat,Female,79
+2017,RAK,Expat,Male,205
+2017,Sharjah,Citizen,Female,136
+2017,Sharjah,Citizen,Male,172
+2017,Sharjah,Expat,Female,295
+2017,Sharjah,Expat,Male,897
+2017,UAQ,Citizen,Female,21
+2017,UAQ,Citizen,Male,37
+2017,UAQ,Expat,Female,20
+2017,UAQ,Expat,Male,74
+2018,Abu Dhabi,Citizen,Female,447
+2018,Abu Dhabi,Citizen,Male,711
+2018,Abu Dhabi,Expat,Female,552
+2018,Abu Dhabi,Expat,Male,1495
+2018,Ajman,Citizen,Female,19
+2018,Ajman,Citizen,Male,42
+2018,Ajman,Expat,Female,106
+2018,Ajman,Expat,Male,358
+2018,Dubai,Citizen,Female,210
+2018,Dubai,Citizen,Male,244
+2018,Dubai,Expat,Female,550
+2018,Dubai,Expat,Male,1595
+2018,Fujairah,Citizen,Female,43
+2018,Fujairah,Citizen,Male,74
+2018,Fujairah,Expat,Female,18
+2018,Fujairah,Expat,Male,116
+2018,RAK,Citizen,Female,120
+2018,RAK,Citizen,Male,147
+2018,RAK,Expat,Female,51
+2018,RAK,Expat,Male,247
+2018,Sharjah,Citizen,Female,116
+2018,Sharjah,Citizen,Male,172
+2018,Sharjah,Expat,Female,291
+2018,Sharjah,Expat,Male,900
+2018,UAQ,Citizen,Female,19
+2018,UAQ,Citizen,Male,33
+2018,UAQ,Expat,Female,12
+2018,UAQ,Expat,Male,96

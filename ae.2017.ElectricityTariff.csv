@@ -1,0 +1,68 @@
+﻿year,sector,type,consumption_category,authority_en,Tariff   Fils/Kwat.Hr 
+2017,Residential buildings for Emiratis,apartment,less than or equals 30,  DOE ,6.7
+2017,Residential buildings for Emiratis,apartment,more than 30,  DOE ,7.5
+2017,Residential buildings for Emiratis,Villa , less than or equal 400,  DOE ,6.7
+2017,Residential buildings for Emiratis,Villa , more than  400,  DOE ,7.5
+2017,Residential buildings for non-Emiratis,apartment, less than or equal 20,  DOE ,26.8
+2017,Residential buildings for non-Emiratis,apartment, more than  20,  DOE ,30.5
+2017,Residential buildings for non-Emiratis,Villa , less than or equal 200,  DOE ,26.8
+2017,Residential buildings for non-Emiratis,Villa , more than  200,  DOE ,30.5
+2017,Commercial buildings,non personal usage,fixed,  DOE ,20
+2017,Commercial buildings,non personal usage,fixed,  DOE ,20
+2017,Commercial buildings,non personal usage,fixed,  DOE ,20
+2017,Commercial buildings,non personal usage,fixed,  DOE ,20
+2017,Industrial facilities,non personal usage,fixed,  DOE ,28.6
+2017,Agricultural facilities,non personal usage,fixed,  DOE ,4.5
+2017,Government facilities,non personal usage,fixed,  DOE ,29.4
+2017,Government facilities,non personal usage,fixed,  DOE ,29.4
+2017,Residential buildings for Emiratis,apartment,1  to 2000,  DEWA ,7.5
+2017,Residential buildings for Emiratis,apartment,2001  to 4000,  DEWA ,9
+2017,Residential buildings for Emiratis,Villa ,4001  to 6000,  DEWA ,10.5
+2017,Residential buildings for Emiratis,Villa ,6001 or more,  DEWA ,12.5
+2017,Residential buildings for non-Emiratis,apartment,1  to 2000,  DEWA ,23
+2017,Residential buildings for non-Emiratis,apartment,2001  to 4000,  DEWA ,28
+2017,Residential buildings for non-Emiratis,Villa ,4001  to 6000,  DEWA ,32
+2017,Residential buildings for non-Emiratis,Villa ,6001 or more,  DEWA ,38
+2017,Commercial buildings,non personal usage,1  to 2000,  DEWA ,23
+2017,Commercial buildings,non personal usage,2001  to 4000,  DEWA ,28
+2017,Commercial buildings,non personal usage,4001  to 6000,  DEWA ,32
+2017,Commercial buildings,non personal usage,6001 or more,  DEWA ,38
+2017,Industrial facilities,non personal usage,1  to 10000,  DEWA ,23
+2017,Industrial facilities,non personal usage,10001 or more,  DEWA ,38
+2017,Agricultural facilities,non personal usage,fixed,  DEWA ,Residential tariff
+2017,Government facilities,non personal usage,1  to 10000,  DEWA ,23
+2017,Government facilities,non personal usage,10001 or more,  DEWA ,38
+2017,Residential buildings for Emiratis,apartment,1  to 2000,  SEWA ,7.5
+2017,Residential buildings for Emiratis,apartment,2001  to 4000,  SEWA ,7.5
+2017,Residential buildings for Emiratis,Villa ,4001  to 6000,  SEWA ,7.5
+2017,Residential buildings for Emiratis,Villa ,6001 or more,  SEWA ,7.5
+2017,Residential buildings for non-Emiratis,apartment,1  to 2000,  SEWA ,30
+2017,Residential buildings for non-Emiratis,apartment,2001  to 4000,  SEWA ,33
+2017,Residential buildings for non-Emiratis,Villa ,4001  to 6000,  SEWA ,37
+2017,Residential buildings for non-Emiratis,Villa ,6001 or more,  SEWA ,43
+2017,Commercial buildings,non personal usage,1  to 2000,  SEWA ,28
+2017,Commercial buildings,non personal usage,2001  to 4000,  SEWA ,33
+2017,Commercial buildings,non personal usage,4001  to 6000,  SEWA ,37
+2017,Commercial buildings,non personal usage,6001 or more,  SEWA ,43
+2017,Industrial facilities,non personal usage,1  to 10000,  SEWA ,44
+2017,Industrial facilities,non personal usage,10001 or more,  SEWA ,44
+2017,Agricultural facilities,non personal usage,fixed,  SEWA ,7.5
+2017,Government facilities,non personal usage,1  to 10000,  SEWA ,40
+2017,Government facilities,non personal usage,10001 or more,  SEWA ,40
+2017,Residential buildings for Emiratis,apartment,1  to 2000,  FEWA ,7.5
+2017,Residential buildings for Emiratis,apartment,2001  to 4000,  FEWA ,7.5
+2017,Residential buildings for Emiratis,Villa ,4001  to 6000,  FEWA ,7.5
+2017,Residential buildings for Emiratis,Villa ,6001 or more,  FEWA ,7.5
+2017,Residential buildings for non-Emiratis,apartment,1  to 2000,  FEWA ,28
+2017,Residential buildings for non-Emiratis,apartment,2001  to 4000,  FEWA ,33
+2017,Residential buildings for non-Emiratis,Villa ,4001  to 6000,  FEWA ,37
+2017,Residential buildings for non-Emiratis,Villa ,6001 or more,  FEWA ,43
+2017,Commercial buildings,non personal usage,1  to 2000,  FEWA ,28
+2017,Commercial buildings,non personal usage,2001  to 4000,  FEWA ,33
+2017,Commercial buildings,non personal usage,4001  to 6000,  FEWA ,37
+2017,Commercial buildings,non personal usage,6001 or more,  FEWA ,43
+2017,Industrial facilities,non personal usage,1  to 10000,  FEWA ,44
+2017,Industrial facilities,non personal usage,10001 or more,  FEWA ,44
+2017,Agricultural facilities,non personal usage,fixed,  FEWA ,7.5
+2017,Government facilities,non personal usage,1  to 10000,  FEWA ,28
+2017,Government facilities,non personal usage,10001 or more,  FEWA ,43
