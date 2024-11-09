@@ -18,10 +18,33 @@
 #' @examples
 #' water_db <- uae.water()
 #' @returns Databas contains water companies production in UAE.
-#'
+#' @importFrom readr read_csv
 #' @export
 uae.water <- function() {
   read.csv(file.path("data", "ae.water.csv"))
+}
+
+####################################################################
+#' This data set contains information about water production in UAE.
+#'
+#' @format A data frame with 5 columns:
+#'   | Column name | Description |
+#'   |---|---|
+#'   | Year | Year of the production. |
+#'   | Department of Energy- Abu Ahabi | The total prouced ammount of water in the year. |
+#'   | Dubai Electricity & Water Authority (DEWA) | The total prouced ammount of water in the year. |
+#'   | Sharjah Electricity & Water Authority (SEWA) | The total prouced ammount of water in the year. |
+#'   | Federal Electricity & Water Authority (FEWA) | The total prouced ammount of water in the year. |
+#'
+#' @source ae.water.csv
+#'
+#' @examples
+#' water_db <- uae.water()
+#' @returns Databas contains water companies production in UAE.
+#' @importFrom readr read_csv
+#' @export
+uae.Ajman.BML <- function() {
+  read.csv(file.path("data", "ae.Aj.BML.csv"))
 }
 
 # This data set contains information about water production in UAE.
@@ -43,7 +66,10 @@ uae.water <- function() {
 #' @examples
 #' water_db <- uae.Population()
 #' @returns Databas contains the population in UAE based based on Emirate, nationality, sex, and year.
+#' @importFrom readr read_csv
+#' @export
 # Function to load ae.Population.csv data
+
 uae.Population <- function() {
   read.csv(file.path("data", "ae.Population.csv"))
 }
@@ -62,10 +88,10 @@ uae.Population <- function() {
 #'   | value | The total number of people in this Emirate groupped by sex (male or female). |
 #'
 #' @source ae.Population.csv
-#'
 #' @examples
 #' water_db <- uae.Population()
 #' @returns Databas contains the population in UAE based based on Emirate, nationality, sex, and year.
+#' @importFrom readr read_csv
 # Function to load ae.Population.csv data
 # Data set from non-oil Ports in UAE
 # The non oil export
@@ -86,6 +112,7 @@ uae.Population <- function() {
 #' @examples
 #' non-oilPorts_db <- uae.Population()
 #' @returns Databas contains non-oil exPorts.
+#' @importFrom readr read_csv
 # Function to load ae.non.oilPortsby.csv data
 uae.non_oilExPorts <- function() {
   read.csv(file.path("data", "ae.non-oilexPortsby.csv"))
@@ -108,6 +135,8 @@ uae.non_oilExPorts <- function() {
 #' @examples
 #' uae.meets_db <- uae.Meets.Import
 #' @returns Databas contains imported meet in a year from a specific country.
+#' @importFrom readr read_csv
+
 # Function to load ae.Meets-Import.csv data
 uae.Meets.Import <- function() {
   read.csv(file.path("data", "ae.Meets-Import.csv"))
@@ -128,6 +157,7 @@ uae.Meets.Import <- function() {
 #' @examples
 #' ElectricityTariffs_db <- uae.ElectricityTariff
 #' @returns Databas contains imported meet in a year from a specific country.
+#' @importFrom readr read_csv
 # Function to load ae.Electricity.csv data
 uae.2017.ElectricityTariff <- function() {
   read.csv(file.path("data", "ae.Electricity.csv"))
@@ -164,6 +194,7 @@ uae.Death <- function() {
 #' @examples
 #' ae.Corp <- uae.Corp
 #' @returns Databas contains number of corp in UAE.
+#' @importFrom readr read_csv
 # Function to load ae.Corp.csv data
 uae.Corp <- function() {
   read.csv(file.path("data", "ae.Corp.csv"))
@@ -197,7 +228,7 @@ uae.Cows <- function() {
 #' @examples
 #' transport_db <- uae.transport.2002()
 #' @returns Databas contains water companies production in UAE.
-#'
+#' @importFrom readr read_csv
 #' @export
 uae.transport.2002 <- function() {
   read.csv(file.path("data", "ae.transport-vehicles-2002.csv"))
@@ -226,9 +257,36 @@ uae.transport.2002 <- function() {
 #' @examples
 #' student_db <- uae.transport.2002()
 #' @returns Databas contains water companies production in UAE.
-#'
+#' @importFrom readr read_csv
 #' @export
 uae.transport.2002 <- function() {
   read.csv(file.path("data", "ae.StudentsEnrolledAtUAEUforAY.csv"))
 }
+#' Plot the UAE map by Emirate
+#' This function reads the KML file containing the UAE map and plots it using ggplot2.
+#' @examples
+#' uae.kml.all()
+#' @export
+#' @import sf
+#' @import ggplot2
+#' @import RColorBrewer
+#' @return A ggplot2 object
+uae.kml.all <- function(){
 
+  library(sf)
+  library(ggplot2)
+  library(RColorBrewer)
+
+  # Load the KML file
+
+  kml_path <- system.file("extdata", "united_arab_emirates_City_level_1.kml", package = "uaeDB")
+  emirates <- st_read(kml_path, quiet = TRUE)
+
+  # Plot using ggplot2
+  ggplot(emirates) +
+    geom_sf(aes(fill = Name)) +  # Replace 'Name' with the actual column containing Emirate names
+    scale_fill_brewer(palette = "Set3") +  # Use a distinct color palette
+    theme_minimal() +
+    labs(title = "UAE Map by Emirate", fill = "Emirate")
+
+}
