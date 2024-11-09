@@ -1,7 +1,7 @@
 Package: uaeDB
 Type: Package
 Title: uaeDB: UAE Database
-Version: Beta
+Version: 1.0.1
 Author: Kosay Hatem
 Maintainer: The package maintainer Kosay Hatem <kosay-h@hotmail.com>
 Description: This package contains database freely for UAE. The data has been collected from open
@@ -14,7 +14,10 @@ RoxygenNote: 7.2.3
 Imports:
     leaflet,
     ggmap,
-    dplyr
+    dplyr,
+    sf,
+    ggplot2,
+    RColorBrewer
 
 
 
