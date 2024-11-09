@@ -1,16 +1,16 @@
-#uaeDB: UAE Data and Visualization Package
+# uaeDB: UAE Data and Visualization Package
 
-##Overview
+## Overview
 
 **uaeDB** is an R package that provides datasets and tools for analyzing various aspects of the United Arab Emirates (UAE), including water production, population demographics, non-oil exports, and more. The package also includes a function to visualize the UAE map by Emirate.
 
-##Features
+## Features
 
 - Access to multiple UAE datasets on topics like water production, population, exports, and more.
 - Functions to load and explore datasets easily.
 - Visualize UAE's Emirate boundaries with a built-in map plotting function.
 
-##Installation
+## Installation
 
 To install the package from GitHub, use the following commands:
 
@@ -22,14 +22,14 @@ install.packages("devtools")
 devtools::install_github("Kosay/uaeDB")
 ```
 
-##Usage
+## Usage
 
-###Load the Package
+### Load the Package
 ```r
 library(uaeDB)
 ```
 
-###Example: Plot the UAE Map
+### Example: Plot the UAE Map
 The package includes a function to plot the UAE map by Emirate. To use it, simply call:
 
 ```r
@@ -40,7 +40,7 @@ This function will generate a plot like the one below:
 
 ![UAE Map](map.png)
 
-###Example: Load a Dataset
+### Example: Load a Dataset
 You can load various datasets using the provided functions. For example:
 
 ```r
@@ -53,7 +53,7 @@ population_data <- uae.Population()
 head(population_data)
 ```
 
-##Available Datasets
+## Available Datasets
 
 | Function Name               | Description                                              |
 |-----------------------------|----------------------------------------------------------|
@@ -68,13 +68,13 @@ head(population_data)
 | `uae.transport.2002()`      | Transport and ambulance data for 2002.                   |
 | `uae.kml.all()`             | Plot UAE map by Emirate.                                 |
 
-##Contribution
+## Contribution
 
 Feel free to contribute to this project by:
 - Reporting issues
 - Submitting pull requests
 - Suggesting new datasets or features
 
-##License
+## License
 
 This package is licensed under the MIT License. See `LICENSE` for details.
